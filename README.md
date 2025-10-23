@@ -2,6 +2,11 @@
 
 A comprehensive reviews management system for Flex Living, allowing managers to review, approve, and manage guest reviews from the Hostaway API.
 
+## 🌐 Live Demo
+
+- **Frontend**: [https://flex-test-frontend.vercel.app/](https://flex-test-frontend.vercel.app/)
+- **Backend API**: [https://flex-test-backend.vercel.app](https://flex-test-backend.vercel.app)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
