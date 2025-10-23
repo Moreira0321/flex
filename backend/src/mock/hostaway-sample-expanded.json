@@ -1,0 +1,485 @@
+{
+    "status": "success",
+    "result": [
+        {
+            "id": 7453,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Shane and family are wonderful! Would definitely host again :)",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-21 22:45:14",
+            "guestName": "Shane Finkelstein",
+            "listingName": "2B N1 A - 29 Shoreditch Heights"
+        },
+        {
+            "id": 7454,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Excellent guests! Very respectful and left the place spotless. Highly recommend!",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 9
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-22 14:30:22",
+            "guestName": "Maria Rodriguez",
+            "listingName": "Cozy Studio in Downtown"
+        },
+        {
+            "id": 7455,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Great communication throughout their stay. Would welcome them back anytime.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 7
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 8
+                }
+            ],
+            "submittedAt": "2020-08-23 09:15:45",
+            "guestName": "James Wilson",
+            "listingName": "Modern Apartment with City View"
+        },
+        {
+            "id": 7456,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Perfect guests! Very clean and followed all house rules. 5 stars!",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-24 16:20:33",
+            "guestName": "Sarah Johnson",
+            "listingName": "Luxury Penthouse Suite"
+        },
+        {
+            "id": 7457,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Good guests overall, though there were some minor issues with cleanliness.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 6
+                },
+                {
+                    "category": "communication",
+                    "rating": 7
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 8
+                }
+            ],
+            "submittedAt": "2020-08-25 11:45:12",
+            "guestName": "Michael Brown",
+            "listingName": "Historic Brownstone Apartment"
+        },
+        {
+            "id": 7458,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Outstanding guests! Exceeded all expectations. Very professional and courteous.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-26 13:30:55",
+            "guestName": "Emily Davis",
+            "listingName": "Beachfront Villa with Pool"
+        },
+        {
+            "id": 7459,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Pleasant guests, good communication. Minor issues with house rules but overall positive experience.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 8
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 6
+                }
+            ],
+            "submittedAt": "2020-08-27 08:15:28",
+            "guestName": "David Lee",
+            "listingName": "Charming Cottage in the Woods"
+        },
+        {
+            "id": 7460,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Excellent guests! Very clean, respectful, and great communication throughout their stay.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 9
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 9
+                }
+            ],
+            "submittedAt": "2020-08-28 19:45:17",
+            "guestName": "Lisa Anderson",
+            "listingName": "Urban Loft with Rooftop Access"
+        },
+        {
+            "id": 7461,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Good guests with room for improvement in cleanliness. Communication was excellent.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 5
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 7
+                }
+            ],
+            "submittedAt": "2020-08-29 15:20:44",
+            "guestName": "Robert Taylor",
+            "listingName": "Mountain Cabin Retreat"
+        },
+        {
+            "id": 7462,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Perfect guests! Left the place immaculate and were very respectful of all rules.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-08-30 12:10:33",
+            "guestName": "Jennifer White",
+            "listingName": "Garden Apartment with Patio"
+        },
+        {
+            "id": 7463,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Average guests. Some communication issues but generally respectful.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 7
+                },
+                {
+                    "category": "communication",
+                    "rating": 5
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 8
+                }
+            ],
+            "submittedAt": "2020-09-01 10:35:22",
+            "guestName": "Christopher Martinez",
+            "listingName": "Downtown Condo with Balcony"
+        },
+        {
+            "id": 7464,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Outstanding guests! Exceeded expectations in every category. Highly recommend!",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-09-02 14:25:18",
+            "guestName": "Amanda Garcia",
+            "listingName": "Luxury High-Rise Apartment"
+        },
+        {
+            "id": 7465,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Good guests overall. Minor issues with cleanliness but good communication.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 6
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 7
+                }
+            ],
+            "submittedAt": "2020-09-03 16:50:41",
+            "guestName": "Kevin Thompson",
+            "listingName": "Historic Townhouse"
+        },
+        {
+            "id": 7466,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Excellent guests! Very professional, clean, and respectful. Would host again!",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 9
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 9
+                }
+            ],
+            "submittedAt": "2020-09-04 11:15:27",
+            "guestName": "Rachel Green",
+            "listingName": "Modern Studio with City Views"
+        },
+        {
+            "id": 7467,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Pleasant guests with good communication. Some room for improvement in cleanliness.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 6
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 8
+                }
+            ],
+            "submittedAt": "2020-09-05 09:30:15",
+            "guestName": "Daniel Kim",
+            "listingName": "Cozy Bedroom in Shared House"
+        },
+        {
+            "id": 7468,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Perfect guests! Left everything spotless and were very respectful of house rules.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 8
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-09-06 17:45:33",
+            "guestName": "Michelle Chen",
+            "listingName": "Waterfront Apartment"
+        },
+        {
+            "id": 7469,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Good guests overall. Communication could be better but they were respectful.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 8
+                },
+                {
+                    "category": "communication",
+                    "rating": 6
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 8
+                }
+            ],
+            "submittedAt": "2020-09-07 13:20:49",
+            "guestName": "Thomas Wilson",
+            "listingName": "Victorian House with Garden"
+        },
+        {
+            "id": 7470,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Outstanding guests! Exceeded all expectations. Very clean and professional.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 10
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 9
+                }
+            ],
+            "submittedAt": "2020-09-08 15:35:22",
+            "guestName": "Stephanie Adams",
+            "listingName": "Penthouse with Rooftop Terrace"
+        },
+        {
+            "id": 7471,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Average guests. Some issues with house rules but generally okay.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 7
+                },
+                {
+                    "category": "communication",
+                    "rating": 7
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 5
+                }
+            ],
+            "submittedAt": "2020-09-09 12:10:38",
+            "guestName": "Mark Johnson",
+            "listingName": "Industrial Loft Space"
+        },
+        {
+            "id": 7472,
+            "type": "host-to-guest",
+            "status": "published",
+            "rating": null,
+            "publicReview": "Excellent guests! Very clean, great communication, and followed all rules perfectly.",
+            "reviewCategory": [
+                {
+                    "category": "cleanliness",
+                    "rating": 10
+                },
+                {
+                    "category": "communication",
+                    "rating": 9
+                },
+                {
+                    "category": "respect_house_rules",
+                    "rating": 10
+                }
+            ],
+            "submittedAt": "2020-09-10 18:25:14",
+            "guestName": "Nicole Rodriguez",
+            "listingName": "Boutique Hotel Suite"
+        }
+    ]
+}
