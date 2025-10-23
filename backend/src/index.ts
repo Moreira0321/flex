@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
     version: '1.0.0',
     endpoints: {
       health: '/health',
-      reviews: '/api/hostaway'
+      reviews: '/api/reviews/hostaway'
     }
   });
 });
@@ -42,7 +42,7 @@ app.use((req, res) => {
 app.listen(PORT, () => {
   console.log(`🚀 Server running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/health`);
-  console.log(`📝 Reviews API: http://localhost:${PORT}/api/hostaway`);
+  console.log(`📝 Reviews API: http://localhost:${PORT}/api/reviews/hostaway`);
 });
 
 export default app;

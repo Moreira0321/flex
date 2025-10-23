@@ -1,7 +1,7 @@
 import axios from 'axios';
 import type { Review, DashboardStats } from '../types/review';
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://flex-test-backend.vercel.app';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
